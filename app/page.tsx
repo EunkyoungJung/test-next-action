@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <>
       <h2>Server Actions Demo</h2>
-      <form action="/test" method="POST">
+      <form action="/" method="POST">
         <div>
           <label htmlFor="todo">Todo</label>
           <div>
